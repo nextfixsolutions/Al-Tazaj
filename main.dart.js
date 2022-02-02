@@ -58348,7 +58348,7 @@ A.f_.prototype={
 a3D(){var s=this,r=t.z
 return A.aW(["product",s.a,"price",s.b,"image",s.c,"stock",s.d],r,r)}}
 A.kg.prototype={
-aD(){return new A.xO(A.c(["assets/abc.jpg","assets/def.jpg","assets/ghi.jpg"],t.i),B.k)}}
+aD(){return new A.xO(A.c(["assets/a.jpg","assets/aa.jpg","assets/abc.jpg","assets/def.jpg","assets/ghi.jpg"],t.i),B.k)}}
 A.xO.prototype={
 Wt(){this.aw(new A.a5D(this))},
 VI(){this.aw(new A.a5C(this))},
@@ -58357,14 +58357,14 @@ n=A.OK(!1,!0,o,A.TI(p,A.Cl(B.eJ,p,p),24,new A.a5F(b),p),n)
 o=A.ae4(25)
 s=q.d
 r=t.Ma
-return A.YR(n,A.AV(A.c([A.hp(A.vL(B.bX,A.c([A.Ca(p,A.d0(p,p,p,p,new A.cR(p,new A.Bb(new A.l1(q.e[s],p,p)),p,o,p,p,B.a1),400,p,p,300),B.ak,!1,p,p,p,p,p,p,p,p,p,p,new A.a5G(q,b),p,p,p,p,p),A.Xk(10,new A.Fx(3,s,p),p,p,25,25,p,p)],r),B.dU),p,p),A.v7(A.c([A.afV(A.fb("Previous",p,p,p),B.dD.j(0,200),5,q.gWs()),A.vA(p,p,10),A.afV(A.fb("Next",p,p,p),B.dD.j(0,200),5,q.gVH())],r),B.ax,B.cn,B.bd)],r),B.ax,B.cn),p)}}
+return A.YR(n,A.AV(A.c([A.hp(A.vL(B.bX,A.c([A.Ca(p,A.d0(p,p,p,p,new A.cR(p,new A.Bb(new A.l1(q.e[s],p,p)),p,o,p,p,B.a1),400,p,p,300),B.ak,!1,p,p,p,p,p,p,p,p,p,p,new A.a5G(q,b),p,p,p,p,p),A.Xk(10,new A.Fx(5,s,p),p,p,25,25,p,p)],r),B.dU),p,p),A.v7(A.c([A.afV(A.fb("Previous",p,p,p),B.dD.j(0,200),5,q.gWs()),A.vA(p,p,10),A.afV(A.fb("Next",p,p,p),B.dD.j(0,200),5,q.gVH())],r),B.ax,B.cn,B.bd)],r),B.ax,B.cn),p)}}
 A.a5D.prototype={
 $0(){var s=this.a,r=s.d
 s.d=r>0?r-1:0},
 $S:1}
 A.a5C.prototype={
 $0(){var s=this.a,r=s.d
-s.d=r<2?r+1:0},
+s.d=r<4?r+1:0},
 $S:1}
 A.a5F.prototype={
 $0(){return A.lV(this.a).dz(0)},
